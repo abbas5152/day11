@@ -1,0 +1,8 @@
+Q3) Explain the difference between abstract class and interface.
+A3) abstract class is partially implemented class where interface is fully unimplemented class.
+in abstract class there is abstract method and normal method also .but in Interface there is only abstract method.
+in abstract class we can declare variables too but in Interface we have to declare variable with final static keyword
+only and also have to initialize with suitable value.
+with the help of Interface we can achieve full encapsulation.
+abstract class support only single inheritance whereas Interface supports multiple inheritance.
+abstract class can extend to java class and  implement interface both whereas interface only implement to interface only
